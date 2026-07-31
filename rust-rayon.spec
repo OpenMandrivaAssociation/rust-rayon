@@ -7,8 +7,8 @@
 %global crate rayon
 
 Name:           rust-%{crate}
-Version:        1.3.0
-Release:        2%{?dist}
+Version:        1.12.0
+Release:        1%{?dist}
 Summary:        Simple work-stealing parallelism for Rust
 
 # Upstream license specification: Apache-2.0/MIT
